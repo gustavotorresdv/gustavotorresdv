@@ -109,13 +109,13 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavotorresdv&theme=dracula"
     style=""
     align="left" 
-    height="185" 
+    height="150" 
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula"
     style=""
     align="left" 
-    height="185" 
+    height="150" 
   />
   
 </div>
