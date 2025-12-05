@@ -4,21 +4,21 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 Estatísticas
 
 ![Detalhes do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavotorresdv&theme=dracula)
 
 <div align="center">
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;">
+<table>
+  <tr>
+    <td style="padding: 0;">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula" 
         width="420"
       />
     </td>
-    <td style="border: none; padding: 0;">
+    <td style="padding: 0;">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavotorresdv&theme=dracula" 
         width="420"
