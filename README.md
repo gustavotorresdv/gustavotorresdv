@@ -3,7 +3,6 @@
 <p>Me chamo Gustavo Lopes Torres, tenho 21 anos, sou natural de Recife. Atualmente, estou cursando Ciência da Computação. Sou apaixonado por tecnologia e sempre busco formas de me desenvolver profissionalmente na área.</p>
 
 
-
 # 🛠️ Tecnologias e Linguagens
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
@@ -98,13 +97,13 @@
 />
 </div>
 
----
+
 
 ## 📊 Estatísticas
 
 ![Detalhes do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavotorresdv&theme=dracula)
 
-<div a style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div a style="display: flex; gap: 10px;">
 
   <div>
     <img 
