@@ -4,15 +4,22 @@
 
 ---
 
-## 📊 GitHub Stats — Summary Cards (Dracula)
+## 📊 GitHub Stats 
 
 ![Detalhes do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavotorresdv&theme=dracula)
 
 <div align="center">
 
-![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula)
-
-![Commits por horário](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavotorresdv&theme=dracula)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavotorresdv&theme=dracula" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
