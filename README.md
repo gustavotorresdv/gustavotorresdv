@@ -3,8 +3,7 @@
 <p>Me chamo Gustavo Lopes Torres, tenho 21 anos, sou natural de Recife. Atualmente, estou cursando Ciência da Computação. Sou apaixonado por tecnologia e sempre busco formas de me desenvolver profissionalmente na área.</p>
 
 
-
-# 🛠️ Tecnologias e Linguagens
+## 🛠️ Tecnologias e Linguagens
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
 
@@ -98,28 +97,25 @@
 />
 </div>
 
+<br/>
+<br/>
 
 
+### 📊 Estatísticas
 
-## 📊 Estatísticas
+<div>
 
-![Detalhes do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavotorresdv&theme=dracula)
-
-<div a style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-  <div>
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula" 
-      style="margin-left: -12px;"
-    />
-  </div>
-
-  <div>
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavotorresdv&theme=dracula" 
-      style="border: none;" 
-    />
-  </div>
-
-
+ <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavotorresdv&theme=dracula"
+    style=""
+    align="left" 
+    height="185" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula"
+    style=""
+    align="left" 
+    height="185" 
+  />
   
+</div>
