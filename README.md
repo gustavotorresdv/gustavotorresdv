@@ -10,22 +10,17 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td style="padding: 0;">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula" 
-        width="420"
-      />
-    </td>
-    <td style="padding: 0;">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavotorresdv&theme=dracula" 
-        width="420"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula" 
+    style="border: none;" 
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavotorresdv&theme=dracula" 
+    style="border: none;" 
+  />
 
 </div>
 
