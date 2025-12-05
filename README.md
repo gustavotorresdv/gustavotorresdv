@@ -8,19 +8,21 @@
 
 ![Detalhes do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavotorresdv&theme=dracula)
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <div>
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula" 
+      style="border: none;" 
+    />
+  </div>
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavotorresdv&theme=dracula" 
-    style="border: none;" 
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavotorresdv&theme=dracula" 
-    style="border: none;" 
-  />
+  <div>
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gustavotorresdv&theme=dracula" 
+      style="border: none;" 
+    />
+  </div>
 
 </div>
 
